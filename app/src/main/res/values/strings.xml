@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppPropina</string>
+    <string name="str_tip20">Genial (20%)</string>
+    <string name="str_tip18">Bueno (18%)</string>
+    <string name="str_tip15">Aceptable (15%)</string>
+    <string name="str_redondear">¿Desea redondear la propina?</string>
+    <string name="str_calcular">Calcular</string>
+    <string name="str_pregunta">¿Qué le pareció el servicio?</string>
+    <string name="str_cantidad">Propina: %s</string>
+    <string name="str_consumo">Costo del consumo</string>
+</resources>
