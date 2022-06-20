@@ -40,3 +40,5 @@ class MainActivity : AppCompatActivity() {
         binding.tipResult.text = getString(R.string.str_cantidad, formattedTip)
     }
 }
+
+//prueba de git
